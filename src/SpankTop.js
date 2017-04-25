@@ -25,7 +25,7 @@ class SpankTop extends Component {
     let handleCSV = ({data}) => {
       let newdata = sampleSize(data, 9)
         .map(row => row[0])
-        .map(r => r.match(/src='(.*?)'/)[1])
+        .map(r => r.match(/src='(.*?)'/)[1].replace('http', 'https'))
         .map((str, idx) => <iframe src={str} key={idx} width='480' height='260' />)
       this.setState({porn: newdata})
     }
