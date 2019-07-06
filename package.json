@@ -8,7 +8,7 @@
     "lodash.min": "^4.0.1",
     "lodash.samplesize": "^4.2.0",
     "papaparse": "^4.2.0",
-    "react": "^15.5.4",
+    "react": "^15.6.2",
     "react-dom": "^15.5.4",
     "whatwg-fetch": "^2.0.3"
   },
