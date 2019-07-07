@@ -10,7 +10,7 @@
     "papaparse": "^4.2.0",
     "react": "^15.6.2",
     "react-dom": "^15.5.4",
-    "whatwg-fetch": "^2.0.3"
+    "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
