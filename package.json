@@ -7,7 +7,7 @@
     "jszip": "^3.2.2",
     "lodash.min": "^4.0.1",
     "lodash.samplesize": "^4.2.0",
-    "papaparse": "^5.0.2",
+    "papaparse": "^5.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.8.6",
     "whatwg-fetch": "^3.0.0"
